@@ -1,0 +1,7 @@
+VenueName,WiFi,Parking,Catering,Suitability
+Venue A,1,1,1,1
+Venue B,1,0,1,1
+Venue C,0,1,1,0
+Venue D,1,1,0,1
+Venue E,0,0,1,0
+

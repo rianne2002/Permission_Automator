@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Venue Recommendation</title>
+</head>
+<body>
+    <h1>Venue Recommendation</h1>
+    <form action="{{url_for('recommend')}} " method="POST">
+        <label for="attribute1">Attribute 1:</label>
+        <input type="number" name="attribute1" required><br>
+
+        <label for="attribute2">Attribute 2:</label>
+        <input type="number" name="attribute2" required><br>
+
+        <label for="attribute3">Attribute 3:</label>
+        <input type="number" name="attribute3" required><br>
+
+        <label for="attribute4">Attribute 4:</label>
+        <input type="number" name="attribute4" required><br>
+
+        <label for="attribute5">Attribute 5:</label>
+        <input type="number" name="attribute5" required><br>
+
+        <input type="submit" value="Recommend">
+    </form>
+</body>
+</html>

@@ -1,0 +1,53 @@
+
+/*=======================================
+Template Design By MarkUps	
+Author URI : http://www.markups.io/
+========================================*/
+.mu-hero-overlay,
+.mu-video-overlay {
+	background-color: #2c3972;/* fallback for old browsers */
+    background: -webkit-linear-gradient(to right,  #2c3972, #8783ed);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right,  #2c3972, #8783ed); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+#mu-hero .navbar-default .navbar-brand,
+.mu-single-event {
+	color:#2c3972;
+}
+.navbar-default .navbar-nav > .active > a, 
+.navbar-default .navbar-nav > .active > a:focus,
+.mu-schedule-menu li a:hover,
+.mu-schedule-menu li a:focus,
+.mu-schedule-menu li.active a,
+.mu-schedule-menu li.active a:hover,
+.mu-schedule-menu li.active a:hover {
+	background-color: #2c3972;
+	;
+}
+.mu-social-media a:hover,
+.mu-social-media a:focus {
+	border: 1px solid #2c3972;
+	color: #2c3972;
+}
+.mu-contact-form .form-control:focus,
+.mu-schedule-menu li a {
+	border: 1px solid #2c3972;    
+} 
+
+.mu-send-msg-btn,
+.mu-send-msg-btn:focus,
+.mu-register-btn:hover,
+.mu-register-btn:focus,
+.mu-popular-price .mu-register-btn {
+	border: 1px solid #2c3972;
+	background-color: #2c3972;
+}
+.mu-faq-content .panel-default > .panel-heading + .panel-collapse > .panel-body {
+	border-top-color: #2c3972;
+
+}
+.mu-reg-submit-btn:hover,
+.mu-reg-submit-btn:focus {
+	background-color: #2c3972;
+	border: 2px solid ;
+}
